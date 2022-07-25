@@ -1,0 +1,20 @@
+table{
+    width: 100%;
+  }
+  .container-sm{
+    color: black;
+    margin-left: 1mm;
+    background-color: skyblue;
+    margin-top: 1mm;
+    width: 70%;
+    text-align: center;
+    border-radius: 5%;
+  }
+  .mylink{
+    color: blue;
+  }
+  .btn btn-info
+  {
+    color:azure;
+    
+  }

@@ -1,0 +1,12 @@
+.container-fluid{
+    color:antiquewhite;
+    background-color: brown;
+    display: flex;
+    justify-content: space-between;
+   
+    
+}
+h2{
+    margin-top: 1%;
+    font-size: larger;
+}
